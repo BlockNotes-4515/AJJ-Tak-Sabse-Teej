@@ -65,19 +65,23 @@ Deploy this project on GitHub and host it on platforms like **Heroku** or **Rend
 Here are some screenshots showcasing the features of the News Web App:
 
 - **Home Page:**  
-  ![Home Page](link-to-home-page-screenshot)
+  ![Home Page](DEMO_(Images)/Capture.PNG)
 
 - **Search Results:**  
-  ![Search Results](link-to-search-results-screenshot)
+  ![Search Results](DEMO_(Images)/Capture1.PNG)
 
 - **Article Detail View:**  
-  ![Article Detail View](link-to-article-detail-screenshot)
+  ![Article Detail View](DEMO_(Images)/Capture2.PNG)
+  <hr>
+  ![Article Detail View](DEMO_(Images)/Capture11.PNG)
+  <hr>
+  ![Article Detail View](DEMO_(Images)/Capture123.PNG)
 
 ## 🛠️ Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## 💻 Demo
-For a live demo, visit [link-to-your-live-demo](https://your-live-demo-url.com).
+For a live demo, visit [link-to-your-live-demo](https://github.com/BlockNotes-4515/AJJ-Tak-Sabse-Teej).
 
 ---
 
