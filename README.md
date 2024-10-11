@@ -73,8 +73,10 @@ Here are some screenshots showcasing the features of the News Web App:
 - **Article Detail View:**  
   ![Article Detail View](DEMO_(Images)/Capture2.PNG)
   <hr>
+  
   ![Article Detail View](DEMO_(Images)/Capture11.PNG)
   <hr>
+  
   ![Article Detail View](DEMO_(Images)/Capture123.PNG)
 
 ## 🛠️ Contributing
